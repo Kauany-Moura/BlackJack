@@ -1,4 +1,4 @@
-# Blackjack com IA em Python e Flask 🎲
+# Blackjack com IA em Python e Flask 🃏
 
 Este projeto é uma demonstração de um jogo de Blackjack com uma IA (Inteligência Artificial) em Python, usando o micro-framework web Flask. O objetivo é ilustrar como conceitos de **Probabilidade** e **Inteligência Artificial** podem ser aplicados na prática.
 
@@ -30,27 +30,14 @@ A aplicação separa a lógica do jogo (no back-end, em Python) da interface vis
 
 ## 🚀 Como Rodar o Projeto
 
-### Pré-requisitos
-Certifique-se de que você tem o Python 3 instalado em seu sistema.
-
-### Instalação
 1. Clone este repositório para sua máquina local:
    `git clone https://github.com/guiwillians/Blackjack-com-IA-em-Python-e-Flask.git`
-2. Navegue até a pasta do projeto:
-   `cd seu-repositorio`
-3. Crie um ambiente virtual (recomendado):
-   `python3 -m venv venv`
-4. Ative o ambiente virtual:
-   - No Linux/macOS: `source venv/bin/activate`
-   - No Windows: `venv\Scripts\activate`
-5. Instale as dependências:
-   `pip install -r requirements.txt`
-
-### Execução
-1. Com o ambiente virtual ativado, inicie o servidor Flask:
-   `python3 app.py`
-2. Abra seu navegador e acesse:
-   `http://127.0.0.1:5000/`
+2. Abra o terminal e instale:
+   `pip install flask`
+3. Rode o Flask diretamente com Python:
+   `python -m flask run`
+4. Abra seu navegador e acesse:
+   `http://127.0.0.1:5000`
 
 ---
 
