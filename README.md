@@ -31,7 +31,7 @@ A aplicação separa a lógica do jogo (no back-end, em Python) da interface vis
 ## 🚀 Como Rodar o Projeto
 
 1. Clone este repositório para sua máquina local:
-   `git clone https://github.com/guiwillians/Blackjack-com-IA-em-Python-e-Flask.git`
+   `git clone https://github.com/Kauany-Moura/BlackJack.git`
 2. Abra o terminal e instale:
    `pip install flask`
 3. Rode o Flask diretamente com Python:
