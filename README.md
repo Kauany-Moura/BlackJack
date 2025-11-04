@@ -4,6 +4,8 @@ Este projeto é uma demonstração de um jogo de Blackjack com uma IA (Inteligê
 
 A aplicação separa a lógica do jogo (no back-end, em Python) da interface visual (no front-end, com HTML, CSS e JavaScript), usando uma API REST para comunicação.
 
+<img src="assets/logo.png" alt="Imagem do jogo" width="200">
+
 ---
 
 ## 🎲 Funcionalidades
