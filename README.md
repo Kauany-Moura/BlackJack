@@ -1,4 +1,4 @@
-# Blackjack com IA em Python e Flask 🃏
+# ♠️ Blackjack Game
 
 Este projeto é uma demonstração de um jogo de Blackjack com uma IA (Inteligência Artificial) em Python, usando o micro-framework web Flask. O objetivo é ilustrar como conceitos de **Probabilidade** e **Inteligência Artificial** podem ser aplicados na prática.
 
